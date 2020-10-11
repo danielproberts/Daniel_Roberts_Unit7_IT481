@@ -1,0 +1,16 @@
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\bin\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.exe
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\bin\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.deps.json
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\bin\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.runtimeconfig.json
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\bin\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.runtimeconfig.dev.json
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\bin\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.dll
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\bin\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.pdb
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\obj\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.csprojAssemblyReference.cache
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\obj\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.AssemblyInfoInputs.cache
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\obj\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.AssemblyInfo.cs
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\obj\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.csproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\obj\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.dll
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\obj\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.pdb
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\obj\Debug\netcoreapp3.1\Daniel_Roberts_Unit7_IT481.genruntimeconfig.cache
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\bin\Debug\netcoreapp3.1\dataset_large.txt
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\bin\Debug\netcoreapp3.1\dataset_medium.txt
+C:\Users\daniel\source\repos\Daniel_Roberts_Unit7_IT481\Daniel_Roberts_Unit7_IT481\bin\Debug\netcoreapp3.1\dataset_small.txt

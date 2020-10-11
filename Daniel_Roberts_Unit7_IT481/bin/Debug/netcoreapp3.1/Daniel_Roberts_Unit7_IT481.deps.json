@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Daniel_Roberts_Unit7_IT481/1.0.0": {
+        "runtime": {
+          "Daniel_Roberts_Unit7_IT481.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Daniel_Roberts_Unit7_IT481/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
