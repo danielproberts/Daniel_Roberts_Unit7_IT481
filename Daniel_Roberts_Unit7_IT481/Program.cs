@@ -7,20 +7,21 @@ namespace Daniel_Roberts_Unit7_IT481
     {
         static void Main(string[] args)
         {
-            var watch1ms = new System.Diagnostics.Stopwatch();
-            var watch2ms = new System.Diagnostics.Stopwatch();
-            var watch3ms = new System.Diagnostics.Stopwatch();
+
             var watch1bs = new System.Diagnostics.Stopwatch();
             var watch2bs = new System.Diagnostics.Stopwatch();
             var watch3bs = new System.Diagnostics.Stopwatch();
-
-            int[] mergeArraySmall = ImportDataSet(@"dataset_small.txt");
-            int[] mergeArrayMedium = ImportDataSet(@"dataset_medium.txt");
-            int[] mergeArrayLarge = ImportDataSet(@"dataset_large.txt");
+            var watch1ms = new System.Diagnostics.Stopwatch();
+            var watch2ms = new System.Diagnostics.Stopwatch();
+            var watch3ms = new System.Diagnostics.Stopwatch();
 
             int[] bubbleArraySmall = ImportDataSet(@"dataset_small.txt");
             int[] bubbleArrayMedium = ImportDataSet(@"dataset_medium.txt");
             int[] bubbleArrayLarge = ImportDataSet(@"dataset_large.txt");
+
+            int[] mergeArraySmall = ImportDataSet(@"dataset_small.txt");
+            int[] mergeArrayMedium = ImportDataSet(@"dataset_medium.txt");
+            int[] mergeArrayLarge = ImportDataSet(@"dataset_large.txt");
 
             Console.WriteLine("Running sorting tests. Please wait...");
             //Bubble Sort Tests
@@ -55,7 +56,7 @@ namespace Daniel_Roberts_Unit7_IT481
             Console.WriteLine(CalculateRunTime(watch3bs.ElapsedTicks) + " milliseconds");
             Console.WriteLine();
             
-
+            //Print Results
             Console.WriteLine("**Merge Sort Results**");
             Console.WriteLine("Big-O Complexity: n (log n)");
             Console.Write("Elapsed time for 10,000 items: ");
@@ -73,6 +74,7 @@ namespace Daniel_Roberts_Unit7_IT481
         }
 
         //Bubble Sort
+        //https://www.geeksforgeeks.org/bubble-sort/
         public static void BubbleSort(int[] input)
         {
             int temp;
@@ -91,6 +93,7 @@ namespace Daniel_Roberts_Unit7_IT481
         }
 
         //Merge Sort
+        //https://www.geeksforgeeks.org/merge-sort/
         public static void Merge(int[] input, int left, int middle, int right)
         {
             int[] leftArray = new int[middle - left + 1];
